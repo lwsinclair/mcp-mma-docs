@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/benhaotang-mcp-mma-docs-badge.png)](https://mseep.ai/app/benhaotang-mcp-mma-docs)
+
 # Mathematica Documentation MCP server
 
 ## General & Usage
